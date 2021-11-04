@@ -16,11 +16,19 @@ In the data manipulation to remove any possibe academic dishonesty we replaced t
 |  Summary with Uncompromised Data  |  IMAGE  |
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+As mentioned above, the changes were very minimal and therfore it does not affect Thomas High Schools preformance realtive to other schools. It remains the second highest performing school. 
+
 - How does replacing the ninth-grade scores affect the following:
-- Math and reading scores by grade
-- Scores by school spending
-- Scores by school size
-- Scores by school type
+**Math and reading scores by grade**: Replacing the ninth-grade scores only affects the scores shown for Thomas High School for 9th grade. These values will no longer be numerical, they will now display "nan". All other values will remain unchanged. This applies both to the math and reading scores by grade. 
+**Scores by school spending**: Since Thomas High School is in the $630-644 spending per student bracket, only the values in that row will be affected. When looking at the values with only one deciaml point, no change is observed. When looking at the values with mutiple decimal points the values were very minimally affected, see below for more details. 
+|  Summary with Compromised Data  |  IMAGE  |
+|  Summary with Uncompromised Data  |  IMAGE  |
+ 
+**Scores by school size**: Since Thomas High School is in the Medium(1000-2000) category, only the values in that row will be affected. When looking at the values with only one deciaml point, no change is observed. When looking at the values with mutiple decimal points the values were very minimally affected, see below for more details: 
+|  Summary with Compromised Data  |  IMAGE  |
+|  Summary with Uncompromised Data  |  IMAGE  |
+
+**Scores by school type**: Since Thomas High School is in the Charter category, only the values in that row will be affected. When looking at the values with only one deciaml point, no change is observed. When looking at the values with mutiple decimal points the values were very minimally affected, see below for more details: 
 
 ##Summary:
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
