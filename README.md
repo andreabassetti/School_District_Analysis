@@ -55,5 +55,5 @@ It is important to note that this effect was minor and did not change the rankin
 | District Level |
 | School Spending |
 | School Size |
-| School Type |
+| School Type | 
 
