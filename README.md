@@ -59,4 +59,8 @@ It is important to note that this effect was minor and did not change the rankin
 | School Spending | Decreased | Increased | Decreased | Decreased | Decreased | 
 | School Size | Decreased | Increased | Decreased | Decreased | Decreased | 
 | School Type |  Decreased | Increased | Decreased | Decreased | Decreased | 
+<<<<<<< HEAD
  
+=======
+ 
+>>>>>>> 91e8ac369e7e97aa272738d75b90eb12677516df
