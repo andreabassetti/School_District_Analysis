@@ -47,13 +47,16 @@ As mentioned above, the changes were very minimal and therfore it does not affec
 | ------------------ | ----------------- |
 |  School Type with Uncompromised Data  |  ![school_type_new](https://github.com/andreabassetti/School_District_Analysis/blob/main/Resources/school_type_new.png)  |
 
-##Summary:
+## Summary:
 
-After replacing the math and reading scores for the ninth grade at Thomas High School we can conclude that every step of the analysis was affected. 
-It is important to note that this effect was minor and did not change the ranking by perforance or lead to different conclusions.
-|                 | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
-| District Level |
-| School Spending |
-| School Size |
-| School Type | 
+After replacing the math and reading scores for the ninth grade at Thomas High School we can conclude that every step of the analysis was affected in some way.
+It is important to note that this effect was minor and did not change the ranking by perforance or lead to different conclusions. Below we find a summary table on how each statistic was affected for each scenario. We can see that generally, the scores decreased once the math and reading scores for the ninth grade at Thomas High School were replaced. However, the average reading scores in most scenarios slightly increased. 
+
+|        -         | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
+| ------------------ | -----------------| ------------------ | ----------------- | ------------------ | ----------------- |
+| District Level | Decreased | Decreased | Decreased | Decreased | Decreased | 
+| School Level | Decreased | Increased | Decreased | Decreased | Decreased | 
+| School Spending | Decreased | Increased | Decreased | Decreased | Decreased | 
+| School Size | Decreased | Increased | Decreased | Decreased | Decreased | 
+| School Type |  Decreased | Increased | Decreased | Decreased | Decreased | 
  
